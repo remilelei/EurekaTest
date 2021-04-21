@@ -17,6 +17,7 @@
         <module>ConfigLocalServer</module>
         <module>ConfigClient</module>
         <module>ConfigRemoteServer</module>
+        <module>ZipkinServer</module>
     </modules>
 
     <properties>

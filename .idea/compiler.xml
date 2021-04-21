@@ -15,6 +15,7 @@
         <module name="Feign" />
         <module name="RestTemplateTest" />
         <module name="ConfigRemoteServer" />
+        <module name="ZipkinServer" />
       </profile>
     </annotationProcessing>
   </component>
@@ -27,6 +28,7 @@
       <module name="EurekaServiceProvider" options="-parameters" />
       <module name="Feign" options="-parameters" />
       <module name="RestTemplateTest" options="-parameters" />
+      <module name="ZipkinServer" options="-parameters" />
       <module name="ZuulGateway" options="-parameters" />
     </option>
   </component>
