@@ -7,4 +7,4 @@ eureka:
 spring:
   application:
     name: configclient
-foo: this is remote config server
+foo: this is remote config server(new)
